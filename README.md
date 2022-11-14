@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yr-github
+- 👋 Hi, I’m @yr
 - 👀 I’m interested in C++,Python,
 - 🌱 I’m currently learning C++, Design pattern.
 - 📫 adele_yr@outlook.com
